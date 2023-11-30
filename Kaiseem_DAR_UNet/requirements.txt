@@ -1,0 +1,13 @@
+torch
+torchvision
+volumentations-3d
+adabelief_pytorch
+tqdm
+sklearn
+numpy 
+nibabel 
+nilearn
+scikit-image 
+scikit-learn
+albumentations
+matplotlib
